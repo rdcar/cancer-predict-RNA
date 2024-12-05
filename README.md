@@ -14,6 +14,10 @@ The goal of this project is to build a model to predict cancer presence based on
 2. [Micro RNA](https://en.wikipedia.org/wiki/MicroRNA_sequencing)
 3. [Sklearn Pipeline](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
 
+## Results
+
+The model with the best result was the Logistic Regression model with the dimensionality reduction through the PCA (Principal Component Analysis) technique, achieving an accuracy of 98%, precision of 99.5%, recall of 99.6% and F1-Score of 99.5%.
+
 ## Future Work
 
 As my studies progress, I will continue to improve the model's hyperparameters and experiment with different algorithms to enhance prediction accuracy.
